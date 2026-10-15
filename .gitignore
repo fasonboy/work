@@ -1,0 +1,5 @@
+.local/
+node_modules/
+*.pptx
+!exports/*.pptx
+__pycache__/

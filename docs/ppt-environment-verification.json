@@ -1,0 +1,46 @@
+{
+  "tested_at": "2026-10-15T02:45:00.466Z",
+  "node": "v24.19.0",
+  "presentations_skill": "/opt/codex/skills/builtins/presentations",
+  "artifact_tool": "2.8.89",
+  "sharp": "0.35.5",
+  "libvips": "8.18.7",
+  "normalization": {
+    "output": "/workspace/work/.local/ppt-checks/run-KddkB1/portable.pptx",
+    "slides": 1,
+    "removedGroupLocks": 3,
+    "neutralizedDefaultBold": 6,
+    "neutralizedDefaultFontSize": 6,
+    "neutralizedDefaultFontFace": 18,
+    "nativeConnectorCount": 1,
+    "targetArrowCount": 1,
+    "nativeTableCount": 1,
+    "autoFitCount": 0,
+    "externalMediaLinks": 0,
+    "svgCount": 1,
+    "pngFallbackCount": 1
+  },
+  "render": {
+    "width": 1280,
+    "height": 720
+  },
+  "package_checks": {
+    "slides": 1,
+    "editable_text": true,
+    "native_connectors": 1,
+    "native_tables": 1,
+    "svg_png_fallbacks": 1,
+    "no_external_images": true,
+    "typography_and_grouping": "passed",
+    "zip_integrity": "passed"
+  },
+  "overflow": "passed",
+  "status": "passed",
+  "scope": "Synthetic one-slide generation, not image recognition or arbitrary-image reconstruction",
+  "visual_review": "Rendered one-slide smoke test inspected; text, arrow, table and icon visible without clipping",
+  "limitations": [
+    "No user reference image converted during setup",
+    "No native PowerPoint/WPS interaction test",
+    "Fresh-task restore and environment publication not tested"
+  ]
+}

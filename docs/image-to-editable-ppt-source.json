@@ -1,0 +1,11 @@
+{
+  "repository": "https://github.com/zhoujie97/image-to-editable-ppt-skill",
+  "commit": "22945dfc705689354fb167b8a609c7d4dfccb6a5",
+  "installed_directory": ".agents/skills/image-to-editable-ppt",
+  "files_sha256": {
+    "SKILL.md": "d3e7b311cebd684b109151915d0648129639a082fca96ecf9254c8098c9718c6",
+    "agents/openai.yaml": "a54ce5dc349799bd51baef33e51acfd238fd4fd6507a79ec9fed95d9c5af576b",
+    "references/reconstruction-workflow.md": "352a7d0e6651c29d44ace0c7b4d394e9617fe9a4cd01c75fad5330fa6f13fbb3",
+    "scripts/normalize_portable_pptx.mjs": "c38ea2babb6a1a13a87ecb4ede4108bf2c836340b8731ccebce6d3ce521bd945"
+  }
+}
