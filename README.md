@@ -41,6 +41,11 @@
 [下载可编辑 PPT](exports/fish-krill-opportunity-editable.pptx)。左侧为可编辑时间线和百分比柱状图，右侧为真正的4行3列PowerPoint表格，图表附内嵌数据表。
 说明见 [鱼油与磷虾油对比页重建记录](docs/fish-krill-opportunity-rebuild.md)。
 
+## 南极磷虾油核心消费群体
+
+[下载可编辑 PPT](exports/krill-consumers-editable.pptx)。四类人群、年龄标签和8条原生项目符号说明可编辑，人物、磷虾和胶囊为近似重绘。
+说明见 [消费群体页重建记录](docs/krill-consumers-rebuild.md)。
+
 ## 超级短视频总结的可编辑草稿
 
 [下载 PPTX](exports/editable-ppt-draft.pptx) 或 [下载 ZIP](exports/editable-ppt-draft.zip)。

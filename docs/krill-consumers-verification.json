@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "slides": 1,
+  "consumer_cards": 4,
+  "native_bullet_items": 8,
+  "native_soft_line_breaks": 7,
+  "blue_bullet_color": "00A2E7",
+  "key_texts_preserved": 20,
+  "svg_with_1024_png_fallback": 4,
+  "grouping_locks": 0,
+  "grouping_locks_removed": 78,
+  "layout_warnings": 0,
+  "overflow": "passed",
+  "visual_review": "LibreOffice PDF rendering inspected; blue native square bullets and source line breaks verified",
+  "artifact_preview_limitation": "Bundled renderer does not honor native bullet color/size; native XML and LibreOffice rendering verified",
+  "native_powerpoint_test": "not_run",
+  "libreoffice_pdf_conversion": "passed",
+  "audience_claims_independently_verified": false,
+  "decorations": "Approximate redraws, not original image assets"
+}
