@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "scope": "Editable illustration reconstruction, not a photograph-identical conversion",
+  "slides": 1,
+  "native_shapes": 114,
+  "native_text_boxes": 40,
+  "editable_packaging_boxes": 3,
+  "key_texts_preserved": 16,
+  "svg_with_1024_png_fallback": 10,
+  "external_images": 0,
+  "full_slide_raster_background": false,
+  "visual_review": "Slide reviewed; no missing-image placeholders; packaging simplified",
+  "claims_independently_verified": false,
+  "native_powerpoint_test": "not_run",
+  "overflow": "passed"
+}
