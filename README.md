@@ -9,6 +9,11 @@
 [下载可编辑版式草稿](exports/anhui-store-editable-draft.pptx)。标题、说明、卡片及地图可编辑；地图为按截图近似重绘，两张门店照片仍待截图原文件补齐。
 源文件和继续生成的方式见 [重建记录](docs/anhui-store-rebuild.md)。
 
+## 安徽业务展示（新版）
+
+[下载可编辑版式草稿](exports/anhui-business-editable-draft.pptx)。按新版截图重建标题、副标题、三组说明卡片、金色标签、底部亮点及蓝金波浪；两张原始门店照片仍待补齐，地图为可编辑近似示意。
+生成方式与当前限制见 [新版重建记录](docs/anhui-business-rebuild.md)。
+
 ## 超级短视频总结的可编辑草稿
 
 [下载 PPTX](exports/editable-ppt-draft.pptx) 或 [下载 ZIP](exports/editable-ppt-draft.zip)。
