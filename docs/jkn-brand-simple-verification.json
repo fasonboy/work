@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "scope": "Latest simplified layout draft only; two original document images missing",
+  "native_text_boxes": 21,
+  "svg_with_1024_png_fallback": 4,
+  "native_connectors": 1,
+  "key_texts_preserved": 16,
+  "missing_document_images": 2,
+  "fourth_claim": "市场表现稳定",
+  "metric_display": "1,000万 台币",
+  "metric_cutoff_as_source": "截至2026年10月",
+  "visual_review": "Latest layout reviewed, no overlapping result value/currency; document placeholders remain",
+  "native_powerpoint_test": "not_run",
+  "overflow": "passed"
+}

@@ -19,6 +19,8 @@
 [下载可编辑版式草稿](exports/jkn-brand-editable-draft.pptx)。公司介绍、经营成果和销售额为可编辑文字，Logo及装饰按截图近似重绘；右侧两份登记文件的原图仍待补齐。
 说明见 [品牌实力重建记录](docs/jkn-brand-rebuild.md)。
 
+最新简洁版：[下载可编辑草稿](exports/jkn-brand-simple-editable-draft.pptx)。已更新“市场表现稳定”和浅蓝经营成果卡片，仍待补两份登记文件的原图。说明见 [简洁版重建记录](docs/jkn-brand-simple-rebuild.md)。
+
 ## 超级短视频总结的可编辑草稿
 
 [下载 PPTX](exports/editable-ppt-draft.pptx) 或 [下载 ZIP](exports/editable-ppt-draft.zip)。
