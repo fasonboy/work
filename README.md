@@ -26,6 +26,11 @@
 [下载可编辑 PPT](exports/n9-product-editable.pptx)。文案、版式及右侧三盒包装均以独立对象重建；包装为近似矢量插图，不是原始产品照片。
 生成脚本及验证范围见 [N9 产品页重建记录](docs/n9-product-rebuild.md)。
 
+## 线下私域资源展示
+
+[下载可编辑 PPT](exports/private-resources-editable.pptx)。文字、卡片、流程箭头、设备/场景示意与手机列表均可分别修改；设备照片和群聊截图改为近似矢量重绘，头像及截断文字有简化。
+说明见 [私域资源重建记录](docs/private-resources-rebuild.md)。
+
 ## 超级短视频总结的可编辑草稿
 
 [下载 PPTX](exports/editable-ppt-draft.pptx) 或 [下载 ZIP](exports/editable-ppt-draft.zip)。

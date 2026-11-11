@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "scope": "Editable schematic reconstruction; original photographs, avatars and chat screenshot not embedded",
+  "slides": 1,
+  "native_shapes": 225,
+  "native_text_boxes": 48,
+  "native_connectors": 4,
+  "key_texts_preserved": 18,
+  "editable_chat_rows": 8,
+  "svg_with_1024_png_fallback": 8,
+  "full_slide_raster_background": false,
+  "visual_review": "Slide inspected; device/room illustrations and chat UI intentionally simplified",
+  "native_powerpoint_test": "not_run",
+  "overflow": "passed"
+}
