@@ -36,6 +36,11 @@
 [下载可编辑 PPT](exports/krill-market-editable.pptx)。三栏文字、市场数字及装饰分别可编辑；柱状图为原生图表，内嵌2024年/2030年、11/21亿美元的数据表。
 说明见 [磷虾油市场页重建记录](docs/krill-market-rebuild.md)。
 
+## 从鱼油的发展看磷虾油市场机会
+
+[下载可编辑 PPT](exports/fish-krill-opportunity-editable.pptx)。左侧为可编辑时间线和百分比柱状图，右侧为真正的4行3列PowerPoint表格，图表附内嵌数据表。
+说明见 [鱼油与磷虾油对比页重建记录](docs/fish-krill-opportunity-rebuild.md)。
+
 ## 超级短视频总结的可编辑草稿
 
 [下载 PPTX](exports/editable-ppt-draft.pptx) 或 [下载 ZIP](exports/editable-ppt-draft.zip)。

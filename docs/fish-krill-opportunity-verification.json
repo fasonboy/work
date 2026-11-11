@@ -1,0 +1,29 @@
+{
+  "status": "passed",
+  "slides": 1,
+  "native_tables": 1,
+  "table_dimensions": [
+    4,
+    3
+  ],
+  "table_texts_match_reference": true,
+  "native_charts": 1,
+  "embedded_workbooks": 1,
+  "chart_categories": [
+    "1999–2000年",
+    "2011–2012年"
+  ],
+  "chart_values": [
+    0.013,
+    0.12
+  ],
+  "chart_display_format": "0.0%",
+  "workbook_cells_match_chart": true,
+  "native_connectors": 3,
+  "svg_with_1024_png_fallback": 9,
+  "layout_warnings": 0,
+  "visual_review": "Timeline, table, chart, native labels and footer inspected; decoration redrawn",
+  "claims_independently_verified": false,
+  "native_powerpoint_test": "not_run",
+  "overflow": "passed"
+}
