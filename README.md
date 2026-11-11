@@ -4,7 +4,12 @@
 上游：<https://github.com/zhoujie97/image-to-editable-ppt-skill>，固定版本 `22945dfc705689354fb167b8a609c7d4dfccb6a5`。
 四个上游文件保持原样，文件清单和 SHA256 见 [来源记录](docs/image-to-editable-ppt-source.json)。
 
-## 当前截图的可编辑草稿
+## 安徽线下门店展示
+
+[下载可编辑版式草稿](exports/anhui-store-editable-draft.pptx)。标题、说明、卡片及地图可编辑；地图为按截图近似重绘，两张门店照片仍待截图原文件补齐。
+源文件和继续生成的方式见 [重建记录](docs/anhui-store-rebuild.md)。
+
+## 超级短视频总结的可编辑草稿
 
 [下载 PPTX](exports/editable-ppt-draft.pptx) 或 [下载 ZIP](exports/editable-ppt-draft.zip)。
 草稿已重建文字、指标及条形图，右侧六个视频画面仍待提供截图原文件后补齐。

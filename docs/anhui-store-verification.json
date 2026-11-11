@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "scope": "Draft structure and editable content only; two original photos unavailable",
+  "native_text_boxes": 30,
+  "editable_map": true,
+  "map_fidelity": "Approximate redrawing of screenshot; not original navigation map",
+  "missing_photos": 2,
+  "svg_with_1024_png_fallback": 3,
+  "zip_integrity": "passed",
+  "native_powerpoint_test": "not_run",
+  "overflow": "passed"
+}
