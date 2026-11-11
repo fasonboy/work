@@ -14,6 +14,11 @@
 [下载可编辑版式草稿](exports/anhui-business-editable-draft.pptx)。按新版截图重建标题、副标题、三组说明卡片、金色标签、底部亮点及蓝金波浪；两张原始门店照片仍待补齐，地图为可编辑近似示意。
 生成方式与当前限制见 [新版重建记录](docs/anhui-business-rebuild.md)。
 
+## 台湾加康诺：品牌实力
+
+[下载可编辑版式草稿](exports/jkn-brand-editable-draft.pptx)。公司介绍、经营成果和销售额为可编辑文字，Logo及装饰按截图近似重绘；右侧两份登记文件的原图仍待补齐。
+说明见 [品牌实力重建记录](docs/jkn-brand-rebuild.md)。
+
 ## 超级短视频总结的可编辑草稿
 
 [下载 PPTX](exports/editable-ppt-draft.pptx) 或 [下载 ZIP](exports/editable-ppt-draft.zip)。

@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "scope": "Editable layout draft; original document images are missing",
+  "native_text_boxes": 23,
+  "svg_with_1024_png_fallback": 6,
+  "key_texts_preserved": 17,
+  "missing_document_images": 2,
+  "logo": "approximate editable redraw",
+  "metric_display": "1,000万 台币",
+  "metric_cutoff_as_source": "截至2026年10月",
+  "visual_review": "Revised number/currency spacing checked; document placeholders remain",
+  "native_powerpoint_test": "not_run",
+  "overflow": "passed"
+}
