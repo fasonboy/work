@@ -31,6 +31,11 @@
 [下载可编辑 PPT](exports/private-resources-editable.pptx)。文字、卡片、流程箭头、设备/场景示意与手机列表均可分别修改；设备照片和群聊截图改为近似矢量重绘，头像及截断文字有简化。
 说明见 [私域资源重建记录](docs/private-resources-rebuild.md)。
 
+## 南极磷虾油市场现状与发展机遇
+
+[下载可编辑 PPT](exports/krill-market-editable.pptx)。三栏文字、市场数字及装饰分别可编辑；柱状图为原生图表，内嵌2024年/2030年、11/21亿美元的数据表。
+说明见 [磷虾油市场页重建记录](docs/krill-market-rebuild.md)。
+
 ## 超级短视频总结的可编辑草稿
 
 [下载 PPTX](exports/editable-ppt-draft.pptx) 或 [下载 ZIP](exports/editable-ppt-draft.zip)。

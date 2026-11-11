@@ -1,0 +1,25 @@
+{
+  "status": "passed",
+  "slides": 1,
+  "native_text_boxes": 29,
+  "native_charts": 1,
+  "embedded_workbooks": 1,
+  "chart_categories": [
+    "2024年",
+    "2030年"
+  ],
+  "chart_values": [
+    11.0,
+    21.0
+  ],
+  "chart_unit": "亿美元",
+  "workbook_cells_match_chart": true,
+  "data_snapshot": "New workbook generated from literal screenshot values; no original source workbook/formula lineage claimed",
+  "key_texts_preserved": 21,
+  "svg_with_1024_png_fallback": 9,
+  "layout_warnings": 0,
+  "visual_review": "Slide reviewed; native data labels use one line, mountain and softgels redrawn",
+  "market_figures_independently_verified": false,
+  "native_powerpoint_test": "not_run",
+  "overflow": "passed"
+}
