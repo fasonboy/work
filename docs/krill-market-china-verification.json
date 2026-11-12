@@ -1,0 +1,45 @@
+{
+  "status": "passed",
+  "slides": 1,
+  "native_shapes": 105,
+  "key_texts_preserved": 21,
+  "native_connectors": 2,
+  "native_chart_count": 1,
+  "chart_categories": [
+    "2024年",
+    "2030年"
+  ],
+  "chart_values": [
+    11,
+    21
+  ],
+  "global_chart_unit": "亿美元",
+  "embedded_excel_workbooks": 1,
+  "workbook_rows": [
+    [
+      "Category",
+      "全球市场规模（亿美元）"
+    ],
+    [
+      "2024年",
+      11
+    ],
+    [
+      "2030年",
+      21
+    ]
+  ],
+  "workbook_origin": "New data snapshot reconstructed from screenshot; original workbook and formulas unavailable",
+  "china_period": "2024年1—9月",
+  "china_sales": "近10亿元",
+  "china_yoy_growth": "24.3%",
+  "svg_with_1024_png_fallback": 11,
+  "grouping_locks": 0,
+  "layout_warnings": 0,
+  "overflow": "passed",
+  "visual_review": "Final PPTX re-imported and rendered; preview manually inspected",
+  "native_powerpoint_test": "not_run",
+  "source_figures_independently_verified": false,
+  "decorations": "Mountains, water, krill and icons are approximate redraws, not original photo assets",
+  "pptx_sha256": "73abcc3e8081f375a431408b425ba7ee6574a0c5b77657a075bafb9eda00d52f"
+}

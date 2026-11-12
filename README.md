@@ -51,6 +51,11 @@
 [下载可编辑版式草稿](exports/office-environment-editable-draft.pptx)。标题、Logo、照片标签和底部四项说明可编辑；两张实拍原照片尚未收到，照片区域明确标为待补，不使用生成场景冒充实拍。
 补入原照片的方法见 [办公环境页重建记录](docs/office-environment-rebuild.md)。
 
+## 南极磷虾油市场现状：全球增长与中国趋势
+
+[下载可编辑 PPT](exports/krill-market-china-editable.pptx)。三栏文字、指标、需求驱动及发展关系可编辑；原生柱状图内嵌11/21亿美元数据表，国内指标按截图保留为近10亿元、同比增长24.3%。雪山、磷虾与图标为近似重绘。
+生成方式与验证范围见 [全球与中国市场页重建记录](docs/krill-market-china-rebuild.md)。
+
 ## 超级短视频总结的可编辑草稿
 
 [下载 PPTX](exports/editable-ppt-draft.pptx) 或 [下载 ZIP](exports/editable-ppt-draft.zip)。
