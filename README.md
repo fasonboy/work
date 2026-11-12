@@ -4,6 +4,11 @@
 上游：<https://github.com/zhoujie97/image-to-editable-ppt-skill>，固定版本 `22945dfc705689354fb167b8a609c7d4dfccb6a5`。
 四个上游文件保持原样，文件清单和 SHA256 见 [来源记录](docs/image-to-editable-ppt-source.json)。
 
+## 国内生产格局（新版单页）
+
+[下载可编辑PPT](exports/production-landscape-editable.pptx)。按新版截图重建四家企业介绍和项目核验说明，文字及版式可编辑；保留56%磷脂/60粒SKU与60%新品的区别。图标和冰山装饰为近似重绘。
+生成方式与验证范围见 [新版生产格局重建记录](docs/production-landscape-rebuild.md)。
+
 ## 市场调研：市场增长、鱼油对比、消费者和生产格局（4页）
 
 [下载4页可编辑PPT](exports/market-research-4slides-editable.pptx)。按本轮截图顺序重建，文字、3张原生图表及对比表可编辑；保留调查分母、2025年倒算值与研究限制。第4页四张照片尚未取得，使用明确标注“非原图／原图待补”的矢量示意。

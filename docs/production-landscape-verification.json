@@ -1,0 +1,29 @@
+{
+  "status": "passed",
+  "slides": 1,
+  "canvas_px": [
+    1677,
+    938
+  ],
+  "native_shapes": 52,
+  "native_text_objects": 20,
+  "checked_source_text_items": 22,
+  "native_tables": 0,
+  "native_charts": 0,
+  "explanation": "The source is a company-card layout with no actual table, chart, or relationship arrow.",
+  "svg_with_1024_transparent_png_fallback": 6,
+  "grouping_locks": 0,
+  "external_media": 0,
+  "layout_findings": 0,
+  "layout_warnings": 0,
+  "overflow": "passed",
+  "dependency_functional_test": "passed",
+  "visual_review": "Final Artifact Tool PNG and independent LibreOffice PDF render inspected; deliberate line breaks preserve 1,000 tonnes and the full SKU verification paragraph.",
+  "critical_source_caveat_preserved": "Proposed 56% phospholipid / 60-capsule SKU is not the same as Liaoyu 2026 public 60% product; specifications, product attributes, filing/registration, commissioned production and batch testing require individual verification.",
+  "claims_independently_verified": false,
+  "vessel_name": "福六海 transcribed from current screenshot; not independently verified against enterprise materials.",
+  "limitations": "Six SVG icons and small iceberg decoration are approximate redraws. No source screenshot or whole-slide raster is embedded.",
+  "desktop_powerpoint_or_wps_edit_test": "not_run",
+  "pptx_bytes": 157514,
+  "pptx_sha256": "e0900281581f38d0bc73e20e4685d415dcfc79877f94a2576b7873ee84ecc9ec"
+}
