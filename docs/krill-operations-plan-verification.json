@@ -1,0 +1,86 @@
+{
+  "status": "passed",
+  "slides": 5,
+  "slide_order": "Attachment order preserved; internal source page labels retained",
+  "native_shapes": 472,
+  "slide_checks": [
+    {
+      "slide": 1,
+      "connectors": 0,
+      "target_arrows": 0,
+      "checked_text_shapes": 12
+    },
+    {
+      "slide": 2,
+      "connectors": 2,
+      "target_arrows": 2,
+      "checked_text_shapes": 20
+    },
+    {
+      "slide": 3,
+      "connectors": 1,
+      "target_arrows": 1,
+      "checked_text_shapes": 13
+    },
+    {
+      "slide": 4,
+      "connectors": 5,
+      "target_arrows": 0,
+      "checked_text_shapes": 11
+    },
+    {
+      "slide": 5,
+      "connectors": 4,
+      "target_arrows": 4,
+      "checked_text_shapes": 13
+    }
+  ],
+  "native_chart": {
+    "slide": 3,
+    "type": "doughnut",
+    "categories": [
+      "线上推广",
+      "线下推广",
+      "机动储备"
+    ],
+    "values": [
+      60,
+      33,
+      7
+    ],
+    "total": 100,
+    "embedded_workbooks": 1,
+    "workbook_rows": [
+      [
+        "Category",
+        "推广预算占比"
+      ],
+      [
+        "线上推广",
+        60
+      ],
+      [
+        "线下推广",
+        33
+      ],
+      [
+        "机动储备",
+        7
+      ]
+    ],
+    "workbook_origin": "New snapshot reconstructed from screenshot; no original workbook lineage claimed"
+  },
+  "svg_with_1024_png_fallback": 33,
+  "grouping_locks": 0,
+  "layout_warnings": 0,
+  "overflow": "passed",
+  "dependency_functional_test": "passed",
+  "visual_review": "All 5 slides rendered and manually inspected in LibreOffice PDF after repairs; Artifact Tool preview also inspected",
+  "artifact_preview_limitation": "Artifact Tool does not display the native doughnut; independent LibreOffice rendering confirms display",
+  "native_powerpoint_test": "not_run",
+  "original_photographs_available": false,
+  "illustrations": "Native approximate redraws; bottle and scene panels visibly identified as schematic",
+  "official_platform_logo_files_used": false,
+  "data_and_product_claims_independently_verified": false,
+  "pptx_sha256": "4c6e3b67818d6879401e296026d128ba1da1855542e6ea7676adde6ecc4de4ad"
+}

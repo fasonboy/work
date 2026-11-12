@@ -61,6 +61,11 @@
 [下载可编辑 PPT](exports/krill-market-prospects-editable.pptx)。左侧1.3%、12%和约9倍均为可编辑文字；右侧为4行3列原生表格，EPA、DHA、磷脂和天然虾青素标签独立可编辑。雪山、磷虾及胶囊装饰为近似重绘。
 生成方式与验证范围见 [市场前景页重建记录](docs/krill-market-prospects-rebuild.md)。
 
+## 南极磷虾油线上线下一体化运营方案（5页）
+
+[下载可编辑 PPT](exports/krill-operations-plan-editable.pptx)。按本次5张图的发送顺序重建项目规划、实施目标、推广预算、线下运营和线上运营；预算环形图为原生图表并内嵌60/33/7数据工作簿。产品、场景和平台标识为近似矢量重绘。
+生成方式、页序和验证范围见 [运营方案重建记录](docs/krill-operations-plan-rebuild.md)。
+
 ## 超级短视频总结的可编辑草稿
 
 [下载 PPTX](exports/editable-ppt-draft.pptx) 或 [下载 ZIP](exports/editable-ppt-draft.zip)。
