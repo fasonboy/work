@@ -1,0 +1,61 @@
+{
+  "status": "passed",
+  "slides": 4,
+  "slide_order": "Attachment order preserved",
+  "slide_size_px": [
+    1672,
+    941
+  ],
+  "first_image_original_size_px": [
+    1600,
+    900
+  ],
+  "first_image_adaptation": "Uniformly scaled to deck width; all content preserved",
+  "native_shapes": 243,
+  "slide_checks": [
+    {
+      "slide": 1,
+      "checked_text_shapes": 15,
+      "native_bullet_items": 0,
+      "native_target_arrows": 2,
+      "svg_icons": 8
+    },
+    {
+      "slide": 2,
+      "checked_text_shapes": 19,
+      "native_bullet_items": 9,
+      "native_target_arrows": 3,
+      "svg_icons": 10
+    },
+    {
+      "slide": 3,
+      "checked_text_shapes": 13,
+      "native_bullet_items": 12,
+      "native_target_arrows": 0,
+      "svg_icons": 8
+    },
+    {
+      "slide": 4,
+      "checked_text_shapes": 19,
+      "native_bullet_items": 4,
+      "native_target_arrows": 0,
+      "svg_icons": 9
+    }
+  ],
+  "offline_promotion_budget": "42–48万元",
+  "native_bullet_items": 25,
+  "native_bullet_color": "E33E40",
+  "native_target_arrows": 5,
+  "svg_with_1024_png_fallback": 35,
+  "grouping_locks": 0,
+  "layout_warnings": 0,
+  "overflow": "passed",
+  "dependency_functional_test": "passed",
+  "visual_review": "All 4 final slides rendered and manually inspected through LibreOffice PDF; red native bullets and brand wrapping verified",
+  "artifact_preview_limitation": "Bundled preview ignores native bullet color/size; DrawingML and LibreOffice rendering checked",
+  "native_powerpoint_test": "not_run",
+  "source_subtitle_limitation": "Slide 2 subtitle has some blurred characters; reconstructed from legible content, noted in speaker notes",
+  "decorations": "People, icons and mountains are approximate redraws",
+  "market_brand_and_nutrition_claims_independently_verified": false,
+  "pptx_sha256": "bcec0ab48effae965cc21763da191247ea18d2d2d0ac7e96f04a9843d6c4914b"
+}
