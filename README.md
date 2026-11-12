@@ -56,6 +56,11 @@
 [下载可编辑 PPT](exports/krill-market-china-editable.pptx)。三栏文字、指标、需求驱动及发展关系可编辑；原生柱状图内嵌11/21亿美元数据表，国内指标按截图保留为近10亿元、同比增长24.3%。雪山、磷虾与图标为近似重绘。
 生成方式与验证范围见 [全球与中国市场页重建记录](docs/krill-market-china-rebuild.md)。
 
+## 南极磷虾油市场前景：鱼油认知与差异化
+
+[下载可编辑 PPT](exports/krill-market-prospects-editable.pptx)。左侧1.3%、12%和约9倍均为可编辑文字；右侧为4行3列原生表格，EPA、DHA、磷脂和天然虾青素标签独立可编辑。雪山、磷虾及胶囊装饰为近似重绘。
+生成方式与验证范围见 [市场前景页重建记录](docs/krill-market-prospects-rebuild.md)。
+
 ## 超级短视频总结的可编辑草稿
 
 [下载 PPTX](exports/editable-ppt-draft.pptx) 或 [下载 ZIP](exports/editable-ppt-draft.zip)。

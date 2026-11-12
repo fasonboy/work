@@ -1,0 +1,48 @@
+{
+  "status": "passed",
+  "slides": 1,
+  "key_text_shapes": 17,
+  "native_connectors": 6,
+  "native_target_arrows": 2,
+  "native_table": {
+    "rows": 4,
+    "columns": 3,
+    "cells": [
+      [
+        "对比维度",
+        "鱼油",
+        "南极磷虾油"
+      ],
+      [
+        "Omega-3形式",
+        "以甘油三酯型、乙酯型等形式存在",
+        "部分以磷脂形式存在"
+      ],
+      [
+        "营养成分",
+        "EPA、DHA",
+        "EPA、DHA、磷脂及天然虾青素"
+      ],
+      [
+        "产品特点",
+        "成熟的Omega-3补充来源",
+        "具有差异化的营养结构"
+      ]
+    ]
+  },
+  "source_percentages": [
+    "1.3%",
+    "12%"
+  ],
+  "source_increase": "约9倍",
+  "svg_with_1024_png_fallback": 6,
+  "grouping_locks": 0,
+  "layout_warnings": 0,
+  "overflow": "passed",
+  "visual_review": "Final PPTX re-imported, rendered and manually inspected after text wrapping repairs",
+  "dependency_functional_test": "passed",
+  "native_powerpoint_test": "not_run",
+  "source_data_and_nutrition_claims_independently_verified": false,
+  "decorations": "Mountains, krill, capsules and icons are approximate redraws, not original photo assets",
+  "pptx_sha256": "73c82277813070b81e9e52f75a5ee3c60f932d3403b4488cc34922aa206e1949"
+}
