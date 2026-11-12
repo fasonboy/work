@@ -1,0 +1,102 @@
+{
+  "status": "passed",
+  "slides": 4,
+  "canvas_px": [
+    1677,
+    938
+  ],
+  "native_text_and_shape_count": 264,
+  "native_chart_count": 3,
+  "native_chart_workbook_data": [
+    {
+      "categories": [
+        "2025 H1*",
+        "2026 H1"
+      ],
+      "values": [
+        3.5,
+        5.5
+      ],
+      "workbook_rows_verified": 3
+    },
+    {
+      "categories": [
+        "认证医生 / 营养师",
+        "健康垂直大V",
+        "真实用户分享",
+        "自媒体评测大V"
+      ],
+      "values": [
+        0.38,
+        0.29,
+        0.11,
+        0.03
+      ],
+      "workbook_rows_verified": 5
+    },
+    {
+      "categories": [
+        "听说过磷虾油",
+        "已认知者正在使用磷虾油",
+        "认为磷虾油是优质 Omega-3 来源"
+      ],
+      "values": [
+        0.29,
+        0.48,
+        0.76
+      ],
+      "workbook_rows_verified": 4
+    }
+  ],
+  "native_table_cells": [
+    [
+      "比较维度",
+      "南极磷虾油",
+      "鱼油"
+    ],
+    [
+      "Omega-3形态",
+      "以磷脂结合型为主（更易被细胞利用）",
+      "以甘油三酯型为主（也有乙酯型、再酯化型）"
+    ],
+    [
+      "伴随成分",
+      "含天然磷脂、虾青素及胆碱等多种活性营养",
+      "主要提供 EPA / DHA成分相对单一"
+    ],
+    [
+      "有效含量",
+      "单位油脂中的 EPA / DHA通常更高",
+      "EPA / DHA 含量相对较低需更高剂量才能达到相似摄入"
+    ],
+    [
+      "市场定位",
+      "差异化、高端化强调复合营养与原料稀缺性",
+      "成熟大众品类价格带宽、剂量选择多"
+    ]
+  ],
+  "native_target_arrow_count": 1,
+  "checked_source_text_items": 46,
+  "2025_estimate_reverse_calculation": "round(5.5 / 1.569, 1) == 3.5; 56.9% not recalculated from rounded bar values",
+  "bar_display_rails": "Seven native drawing shapes, not data series. Trust chart cap 50%, awareness chart cap 100%.",
+  "survey_denominators": "29% all respondents; 48% aware subgroup; 76% krill-oil users. Fish-oil buyer proxy remains explicitly distinguished.",
+  "svg_with_1024_transparent_png_fallback": 34,
+  "grouping_locks": 0,
+  "external_media": 0,
+  "layout_findings": 0,
+  "layout_warnings": 0,
+  "overflow": "passed",
+  "dependency_functional_test": "passed",
+  "runtime": {
+    "node": "v24.19.0",
+    "artifact_tool": "2.8.89",
+    "sharp": "0.35.5"
+  },
+  "visual_review": "All four final Artifact Tool slide renders reviewed. Slides 1, 2 and 4 final PNGs byte-identical to reviewed revision 2; changed slide 3 reviewed again. Independent LibreOffice PDF rendering reviewed on all four; final single-series percentage charts fixed the 76% bar rendering discrepancy.",
+  "clinical_study_and_company_claims_independently_verified": false,
+  "original_photos_available": false,
+  "photo_substitution": "Four slide-4 generic vector illustrations explicitly labeled 非原图 and 原图待补.",
+  "desktop_powerpoint_or_wps_edit_test": "not_run",
+  "pptx_sha256": "25825a263f1a5055bc689d20adb4c2768da49db9938b5d8263e427a5dbc73ece",
+  "pptx_bytes": 826521
+}

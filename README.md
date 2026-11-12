@@ -4,6 +4,11 @@
 上游：<https://github.com/zhoujie97/image-to-editable-ppt-skill>，固定版本 `22945dfc705689354fb167b8a609c7d4dfccb6a5`。
 四个上游文件保持原样，文件清单和 SHA256 见 [来源记录](docs/image-to-editable-ppt-source.json)。
 
+## 市场调研：市场增长、鱼油对比、消费者和生产格局（4页）
+
+[下载4页可编辑PPT](exports/market-research-4slides-editable.pptx)。按本轮截图顺序重建，文字、3张原生图表及对比表可编辑；保留调查分母、2025年倒算值与研究限制。第4页四张照片尚未取得，使用明确标注“非原图／原图待补”的矢量示意。
+生成方式和验证范围见 [4页重建记录](docs/market-research-rebuild.md)。
+
 ## 安徽线下门店展示
 
 [下载可编辑版式草稿](exports/anhui-store-editable-draft.pptx)。标题、说明、卡片及地图可编辑；地图为按截图近似重绘，两张门店照片仍待截图原文件补齐。
