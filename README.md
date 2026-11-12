@@ -81,6 +81,11 @@
 [下载可编辑 PPT](exports/market-channels-events-editable.pptx)。按附件顺序重建线下产品会、线上市场、线下市场、竞争格局与全渠道策略；保留42–48万元预算、年龄段和品牌名单。内容含25条原生项目符号和5条原生流程箭头。
 说明见 [活动与市场渠道页重建记录](docs/market-channels-events-rebuild.md)。人物、图标和雪山为近似重绘；第2页副标题个别模糊字已按可辨内容整理。
 
+## 产品经营思路：规格分层与价格梯度设计
+
+[下载可编辑 PPT](exports/pricing-ladder-editable.pptx)。7档规格的单瓶价格与总价可编辑，价格走势为原生图表并内嵌数据表；规格价格区和规格说明分别使用原生PowerPoint表格。7项总价已逐项核对。
+生成方式与验证范围见 [价格梯度页重建记录](docs/pricing-ladder-rebuild.md)。
+
 ## 超级短视频总结的可编辑草稿
 
 [下载 PPTX](exports/editable-ppt-draft.pptx) 或 [下载 ZIP](exports/editable-ppt-draft.zip)。

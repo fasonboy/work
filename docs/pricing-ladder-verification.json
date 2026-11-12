@@ -1,0 +1,94 @@
+{
+  "status": "passed",
+  "slides": 1,
+  "native_shapes": 63,
+  "checked_source_text_shapes": 16,
+  "bottle_quantities": [
+    1,
+    2,
+    4,
+    6,
+    8,
+    10,
+    12
+  ],
+  "unit_prices_rmb": [
+    458,
+    447,
+    435,
+    424,
+    412,
+    401,
+    389
+  ],
+  "total_prices_rmb": [
+    458,
+    894,
+    1740,
+    2544,
+    3296,
+    4010,
+    4668
+  ],
+  "all_seven_quantity_times_unit_price_checks": "passed",
+  "native_tables": [
+    {
+      "rows": 4,
+      "columns": 7
+    },
+    {
+      "rows": 4,
+      "columns": 4
+    }
+  ],
+  "native_chart_count": 1,
+  "chart_type": "line",
+  "embedded_excel_workbooks": 1,
+  "workbook_origin": "New snapshot reconstructed from screenshot; no original formulas claimed",
+  "workbook_rows": [
+    [
+      "Category",
+      "单瓶价格（元/瓶）"
+    ],
+    [
+      "1瓶",
+      458
+    ],
+    [
+      "2瓶",
+      447
+    ],
+    [
+      "4瓶",
+      435
+    ],
+    [
+      "6瓶",
+      424
+    ],
+    [
+      "8瓶",
+      412
+    ],
+    [
+      "10瓶",
+      401
+    ],
+    [
+      "12瓶",
+      389
+    ]
+  ],
+  "marker_outline": "E8202C",
+  "svg_with_1024_png_fallback": 19,
+  "grouping_locks": 0,
+  "layout_warnings": 0,
+  "overflow": "passed",
+  "dependency_functional_test": "passed",
+  "visual_review": "Final PPTX re-imported and rendered; independent LibreOffice PDF rendering inspected",
+  "native_powerpoint_test": "not_run",
+  "editing_note": "PowerPoint manual changes need syncing across chart, tables and quantity labels",
+  "decorations": "Approximate native mountain and SVG icon redraws",
+  "pricing_strategy_independently_verified": false,
+  "pptx_sha256": "14f4e616599d5f8431f149fda37702bb6de75791c982640d135bdb9960e0f8c4"
+}
