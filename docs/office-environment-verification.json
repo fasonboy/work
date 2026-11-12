@@ -1,0 +1,15 @@
+{
+  "status": "draft_validated",
+  "full_reconstruction": false,
+  "slides": 1,
+  "photo_slots": 2,
+  "missing_photos": 2,
+  "real_office_photos_embedded": 0,
+  "source_texts_preserved": 8,
+  "svg_with_1024_png_fallback": 6,
+  "layout_warnings": 0,
+  "visual_review": "Editable layout reviewed; two photo slots visibly marked pending original files",
+  "photo_import_with_user_originals": "not_run_originals_unavailable",
+  "native_powerpoint_test": "not_run",
+  "overflow": "passed"
+}

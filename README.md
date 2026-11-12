@@ -46,6 +46,11 @@
 [下载可编辑 PPT](exports/krill-consumers-editable.pptx)。四类人群、年龄标签和8条原生项目符号说明可编辑，人物、磷虾和胶囊为近似重绘。
 说明见 [消费群体页重建记录](docs/krill-consumers-rebuild.md)。
 
+## 办公环境实拍展示
+
+[下载可编辑版式草稿](exports/office-environment-editable-draft.pptx)。标题、Logo、照片标签和底部四项说明可编辑；两张实拍原照片尚未收到，照片区域明确标为待补，不使用生成场景冒充实拍。
+补入原照片的方法见 [办公环境页重建记录](docs/office-environment-rebuild.md)。
+
 ## 超级短视频总结的可编辑草稿
 
 [下载 PPTX](exports/editable-ppt-draft.pptx) 或 [下载 ZIP](exports/editable-ppt-draft.zip)。
