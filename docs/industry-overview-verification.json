@@ -1,0 +1,78 @@
+{
+  "status": "passed",
+  "slides": 1,
+  "native_shapes": 94,
+  "checked_source_text_shapes": 24,
+  "market_ranges": [
+    [
+      5.4,
+      9.3
+    ],
+    [
+      11,
+      24
+    ]
+  ],
+  "unit": "亿美元",
+  "years": [
+    2025,
+    2034
+  ],
+  "cagr_range": "8.4%–11.3%",
+  "cagr_period": "2026–2034年",
+  "native_chart": {
+    "count": 1,
+    "type": "stacked column",
+    "lower_bounds": [
+      5.4,
+      11.0
+    ],
+    "derived_spans": [
+      3.9,
+      13.0
+    ],
+    "upper_bounds": [
+      9.3,
+      24
+    ],
+    "custom_range_labels": [
+      "5.4–9.3",
+      "11–24"
+    ],
+    "workbook_rows": [
+      [
+        "Category",
+        "区间下限（亿美元）",
+        "Category",
+        "上限减下限（亿美元）"
+      ],
+      [
+        "2025年",
+        5.4,
+        "2025年",
+        3.9
+      ],
+      [
+        "2034年预测",
+        11,
+        "2034年预测",
+        13
+      ]
+    ],
+    "embedded_workbooks": 1,
+    "origin": "New snapshot from screenshot; no original workbook lineage claimed",
+    "editing_note": "Custom interval labels need updating when data changes"
+  },
+  "native_target_arrows": 1,
+  "svg_with_1024_png_fallback": 10,
+  "grouping_locks": 0,
+  "layout_warnings": 0,
+  "overflow": "passed",
+  "dependency_functional_test": "passed",
+  "visual_review": "Final PPTX re-imported, rendered and manually inspected",
+  "native_powerpoint_test": "not_run",
+  "small_print": "Bottom-right note restated from legible meaning; not a verbatim transcription; marked in speaker notes",
+  "data_and_nutrition_claims_independently_verified": false,
+  "decorations": "Approximate mountain and icon redraws",
+  "pptx_sha256": "27eaf836b4137b8ff9b6e4b110e8868f6e5e6f50246b68d45f918a0479d3db5c"
+}

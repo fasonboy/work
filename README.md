@@ -71,6 +71,11 @@
 [下载可编辑 PPT](exports/online-promotion-budget-editable.pptx)。按本次截图重建线上预算24.5–28万元、总推广预算占比约35%，以及45%/25%/20%/10%的四项费用分配；文字、卡片、圆环和波浪均为独立对象。
 说明见 [线上推广费用页重建记录](docs/online-promotion-budget-rebuild.md)。
 
+## 行业概况：市场扩容与产品认知升级
+
+[下载可编辑 PPT](exports/industry-overview-editable.pptx)。保留2025年5.4–9.3亿美元、2034年11–24亿美元和8.4%–11.3%的增长率区间；柱形图为原生图表并内嵌数据表。四项驱动卡片可编辑，右下模糊小字按可辨含义重述。
+说明见 [行业概况页重建记录](docs/industry-overview-rebuild.md)。
+
 ## 超级短视频总结的可编辑草稿
 
 [下载 PPTX](exports/editable-ppt-draft.pptx) 或 [下载 ZIP](exports/editable-ppt-draft.zip)。
