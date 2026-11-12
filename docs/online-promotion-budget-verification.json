@@ -1,0 +1,29 @@
+{
+  "status": "passed",
+  "slides": 1,
+  "native_shapes": 49,
+  "checked_text_shapes": 18,
+  "budget": "24.5–28万元",
+  "overall_promotion_budget_share": "约35%",
+  "online_allocation_percentages": [
+    45,
+    25,
+    20,
+    10
+  ],
+  "allocation_sum": 100,
+  "circle": "Decorative full ring, not a 35% progress chart",
+  "native_connectors": 1,
+  "native_target_arrows": 1,
+  "svg_with_1024_png_fallback": 6,
+  "grouping_locks": 0,
+  "layout_warnings": 0,
+  "overflow": "passed",
+  "dependency_functional_test": "passed",
+  "visual_review": "Final PPTX re-imported, rendered and manually inspected after title alignment and circular wave repairs",
+  "native_powerpoint_test": "not_run",
+  "source_numbers_independently_verified": false,
+  "previous_deck_modified": false,
+  "icons": "Approximate SVG redraws with embedded fallback",
+  "pptx_sha256": "d87f745d4f0661ad0e011aaea5cd57f74108dff9824b406c166d18ae394ee275"
+}

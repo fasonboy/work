@@ -66,6 +66,11 @@
 [下载可编辑 PPT](exports/krill-operations-plan-editable.pptx)。按本次5张图的发送顺序重建项目规划、实施目标、推广预算、线下运营和线上运营；预算环形图为原生图表并内嵌60/33/7数据工作簿。产品、场景和平台标识为近似矢量重绘。
 生成方式、页序和验证范围见 [运营方案重建记录](docs/krill-operations-plan-rebuild.md)。
 
+## 线上推广费用规划
+
+[下载可编辑 PPT](exports/online-promotion-budget-editable.pptx)。按本次截图重建线上预算24.5–28万元、总推广预算占比约35%，以及45%/25%/20%/10%的四项费用分配；文字、卡片、圆环和波浪均为独立对象。
+说明见 [线上推广费用页重建记录](docs/online-promotion-budget-rebuild.md)。
+
 ## 超级短视频总结的可编辑草稿
 
 [下载 PPTX](exports/editable-ppt-draft.pptx) 或 [下载 ZIP](exports/editable-ppt-draft.zip)。
