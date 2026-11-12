@@ -1,0 +1,68 @@
+{
+  "status": "passed",
+  "slides": 1,
+  "native_shapes": 50,
+  "checked_source_text_shapes": 13,
+  "native_table": {
+    "rows": 8,
+    "columns": 3,
+    "cells": [
+      [
+        "规格",
+        "单瓶价",
+        "总价"
+      ],
+      [
+        "1瓶",
+        "¥458",
+        "¥458"
+      ],
+      [
+        "2瓶",
+        "¥447",
+        "¥894"
+      ],
+      [
+        "4瓶",
+        "¥435",
+        "¥1,740"
+      ],
+      [
+        "6瓶",
+        "¥424",
+        "¥2,544"
+      ],
+      [
+        "8瓶",
+        "¥412",
+        "¥3,296"
+      ],
+      [
+        "10瓶",
+        "¥401",
+        "¥4,010"
+      ],
+      [
+        "12瓶",
+        "¥389",
+        "¥4,668"
+      ]
+    ]
+  },
+  "all_seven_quantity_times_unit_price_checks": "passed",
+  "recommended_tier": "12瓶",
+  "recommended_row_fill": "FFEDED",
+  "currency_symbol": "¥",
+  "thousands_separators": "preserved",
+  "svg_with_1024_png_fallback": 6,
+  "grouping_locks": 0,
+  "layout_warnings": 0,
+  "overflow": "passed",
+  "dependency_functional_test": "passed",
+  "visual_review": "Final PPTX re-imported, rendered and manually inspected after long description fit adjustment",
+  "native_powerpoint_test": "not_run",
+  "decorations": "Approximate mountain and SVG icon redraws; illegible white decorative text not transcribed",
+  "pricing_strategy_independently_verified": false,
+  "previous_version_modified": false,
+  "pptx_sha256": "79233fc774b7885bbfe2929535d8a63caee744e3fbcefe8bbc62b011c09b5037"
+}

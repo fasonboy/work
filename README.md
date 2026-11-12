@@ -86,6 +86,11 @@
 [下载可编辑 PPT](exports/pricing-ladder-editable.pptx)。7档规格的单瓶价格与总价可编辑，价格走势为原生图表并内嵌数据表；规格价格区和规格说明分别使用原生PowerPoint表格。7项总价已逐项核对。
 生成方式与验证范围见 [价格梯度页重建记录](docs/pricing-ladder-rebuild.md)。
 
+## 规格分层与价格梯度设计（新版表格）
+
+[下载可编辑 PPT](exports/pricing-table-editable.pptx)。按新版截图重建8行3列原生价格表，保留12瓶推荐标识及入门体验、主力规格、长期管理三项说明。7档总价均已核对。
+说明见 [新版价格表页重建记录](docs/pricing-table-rebuild.md)。
+
 ## 超级短视频总结的可编辑草稿
 
 [下载 PPTX](exports/editable-ppt-draft.pptx) 或 [下载 ZIP](exports/editable-ppt-draft.zip)。
