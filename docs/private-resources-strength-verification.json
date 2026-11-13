@@ -1,0 +1,55 @@
+{
+  "status": "passed",
+  "slides": 3,
+  "canvas_px": [
+    1672,
+    941
+  ],
+  "slide_order": [
+    "WX private resources",
+    "Company strength clean version",
+    "Company strength illustrated version"
+  ],
+  "native_shape_counts_by_slide": [
+    621,
+    75,
+    123
+  ],
+  "editable_chat_rows": 40,
+  "message_previews": "Original unread message counts plus ellipsis, not group membership totals. Names partially truncated where unreadable; avatars simplified.",
+  "resource_metric_values": [
+    "10万+",
+    "200+",
+    "400–500人",
+    "15年+"
+  ],
+  "activity_wording": "Slide 1: 月度活跃; slides 2/3: 月均社群触达. Preserved as distinct source wording.",
+  "revenue_wan_yuan": [
+    200,
+    300,
+    3500
+  ],
+  "revenue_sum_wan_yuan": 4000,
+  "revenue_arithmetic": "200 + 300 + 3500 == 4000; independently checked on both strength slides.",
+  "consolidated_financial_statement_claimed": false,
+  "source_footnotes_preserved": true,
+  "original_building_photos_available": false,
+  "photo_substitution": "Three labeled native building illustrations; 建筑示意（非原图）.",
+  "svg_with_1024_transparent_png_fallback": 27,
+  "grouping_locks": 0,
+  "external_media": 0,
+  "layout_findings": 0,
+  "layout_warnings": 0,
+  "overflow": "passed",
+  "dependency_functional_test": "passed",
+  "runtime": {
+    "node": "v24.19.0",
+    "artifact_tool": "2.8.89",
+    "sharp": "0.35.5"
+  },
+  "visual_review": "All final Artifact Tool renders and independent LibreOffice PDF renders inspected. Final subtitle and photo-disclosure contrast repaired after cross-render review.",
+  "desktop_powerpoint_or_wps_edit_test": "not_run",
+  "revenue_and_resource_claims_independently_verified": false,
+  "pptx_bytes": 834820,
+  "pptx_sha256": "57a499a261f2b966161230b725ee1ab465d6e7430acd17a5832c5b3346bae9b2"
+}

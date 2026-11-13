@@ -4,6 +4,11 @@
 上游：<https://github.com/zhoujie97/image-to-editable-ppt-skill>，固定版本 `22945dfc705689354fb167b8a609c7d4dfccb6a5`。
 四个上游文件保持原样，文件清单和 SHA256 见 [来源记录](docs/image-to-editable-ppt-source.json)。
 
+## WX私域资源与企业综合实力（3页）
+
+[下载3页可编辑PPT](exports/private-resources-company-strength-editable.pptx)。按截图顺序保留私域展示和两版企业综合实力，文字、指标及40行群聊列表可编辑。头像和模糊预览简化，建筑原照片以明确标注“非原图”的示意替代。
+生成方式与验证范围见 [私域资源与企业实力重建记录](docs/private-resources-strength-rebuild.md)。
+
 ## 国内生产格局（新版单页）
 
 [下载可编辑PPT](exports/production-landscape-editable.pptx)。按新版截图重建四家企业介绍和项目核验说明，文字及版式可编辑；保留56%磷脂/60粒SKU与60%新品的区别。图标和冰山装饰为近似重绘。
